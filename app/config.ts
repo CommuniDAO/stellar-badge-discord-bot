@@ -1,0 +1,8 @@
+export const config = {
+  DISCORD_CLIENT_ID: '1072859427738234920',
+  DISCORD_CLIENT_SECRET: '',
+  DISCORD_REDIRECT_URI: 'http://localhost:8788/auth/discord/callback',
+  DISCORD_BOT_TOKEN: '',
+  STELLAR_NETWORK: 'TESTNET',
+  TIER_1_BADGE_TRUSTLINE: ''
+}
